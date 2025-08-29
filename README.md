@@ -1,12 +1,71 @@
-# React + Vite
+🚀 Features Implemented
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✅ Clickable Points (Right Side):
 
-Currently, two official plugins are available:
+Clicking a point updates the active state (blue indicator).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Updates iPhone image, heading, and body text accordingly.
 
-## Expanding the ESLint configuration
+✅ Left/Right Arrows (Left Side):
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Navigate through features.
+
+Content updates dynamically.
+
+✅ Scroll Behavior:
+
+Section becomes sticky when in view.
+
+Scroll auto-advances through features 1 → 5, then page scrolls normally.
+
+✅ Mobile Responsiveness:
+
+Optimized layout for mobile.
+
+Tap-friendly points and proper spacing.
+
+🛠️ Tech Stack
+
+React.js (Frontend)
+
+CSS / Tailwind (Styling – responsive, clean, and modern)
+
+📂 Project Setup
+
+Clone the repository and run locally:
+
+# Clone repo
+git clone https://github.com/your-username/feature-showcase.git
+
+# Move into folder
+cd feature-showcase
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
+
+
+The app will run on http://localhost:3000.
+
+🌐 Deployment
+
+Deployed on Vercel: https://feature-showcase-brown.vercel.app/
+
+📸 Screenshots
+Desktop View
+
+(Insert screenshot here)
+
+Mobile View
+
+(Insert screenshot here)
+
+📧 Contact
+
+Sudheer Vadla
+
+📩 [Your Email]
+
+🌐 [Portfolio/LinkedIn/GitHub]
