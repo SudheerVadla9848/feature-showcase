@@ -56,11 +56,11 @@ Deployed on Vercel: https://feature-showcase-brown.vercel.app/
 📸 Screenshots
 Desktop View
 
-(Insert screenshot here)
+![image alt]()
 
 Mobile View
 
-(Insert screenshot here)
+![image alt]()
 
 📧 Contact
 
