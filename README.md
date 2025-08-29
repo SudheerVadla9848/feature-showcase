@@ -56,16 +56,16 @@ Deployed on Vercel: https://feature-showcase-brown.vercel.app/
 📸 Screenshots
 Desktop View
 
-![image alt]()
+![image alt](https://github.com/SudheerVadla9848/feature-showcase/blob/fd7c480090db6860fbb1392a2ccc146022fafac7/Screenshot%202025-08-29%20231511.png)
 
 Mobile View
 
-![image alt]()
+![image alt](https://github.com/SudheerVadla9848/feature-showcase/blob/fd7c480090db6860fbb1392a2ccc146022fafac7/Screenshot%202025-08-30%20000937.png)
 
 📧 Contact
 
 Sudheer Vadla
 
-📩 [Your Email]
+📩 [sudheervadla123@gmail.com]
 
-🌐 [Portfolio/LinkedIn/GitHub]
+🌐 [SudheerVadla9848]
